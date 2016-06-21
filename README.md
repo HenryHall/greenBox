@@ -1,9 +1,11 @@
 #Get those green blocks
 
 Initialize:
-
 1. Create a git repo
-2. Change the remote to the new repo
-3. 
+2. Do a git init, and set the remote to your repo
+3. Change line 3 and 5 of bashTest.sh to match your file locations
+4. Run bashTest.sh from terminal once a day to get those green boxes
 
-Change line 4 of bashTest.sh to your local path
+Note:
+
+You can run bashTest.sh from terminal very easily by right-clicking--> Get Info --> Change the open with to terminal.
