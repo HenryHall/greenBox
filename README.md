@@ -8,9 +8,7 @@ Initialize:
 
 3. Change the remote to your repo
 
-4. Change line 3 and 5 of bashTest.sh to match your file locations
-
-5. Run bashTest.sh from terminal once a day to get those green boxes
+4. Run bashTest.sh from terminal once a day to get those green boxes
 
 Note:
 
