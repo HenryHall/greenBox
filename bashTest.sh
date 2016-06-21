@@ -5,6 +5,6 @@ cd Documents/terminalAutomation/
 ls
 
 git add .
-git commit -m "quick add"
+git commit -m "quick add"+`date +%Y-%m-%d`
 git push -u origin master
 echo "Goodbye World!"

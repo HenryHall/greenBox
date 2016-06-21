@@ -1,2 +1,3 @@
 some data for the file:
 DATE=2016-06-21
+DATE=2016-06-21
