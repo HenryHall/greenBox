@@ -1,5 +1,5 @@
 echo "Hello World!"
-echo "some data for the file" >> /Users/HenryHall/Documents/terminalAutomation/test.txt
+echo DATE=`date +%Y-%m-%d` >> /Users/HenryHall/Documents/terminalAutomation/test.txt
 cd
 cd Documents/
 cd terminalAutomation/

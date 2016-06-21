@@ -6,3 +6,4 @@ some data for the file
 some data for the file
 some data for the file
 some data for the file
+DATE=2016-06-21
